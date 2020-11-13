@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "simple_message", "Python编程：从入门到实践\simple_message.pyproj", "{23500F4F-0D7C-46DC-9495-ACE835FD480D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hello_world", "Hello_world\Hello_world.pyproj", "{FFBCED60-C928-4584-BB9D-8084EACFD8AA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "name", "name\name.pyproj", "{7D9A86A7-89BA-41BA-BB8B-AA165FF4B0F3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rstrip_删除空格", "rstrip_删除空格\rstrip_删除空格.pyproj", "{D071D4D7-24BE-4DEA-8CBA-D7D78F6ABF30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23500F4F-0D7C-46DC-9495-ACE835FD480D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23500F4F-0D7C-46DC-9495-ACE835FD480D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBCED60-C928-4584-BB9D-8084EACFD8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBCED60-C928-4584-BB9D-8084EACFD8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9A86A7-89BA-41BA-BB8B-AA165FF4B0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9A86A7-89BA-41BA-BB8B-AA165FF4B0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D071D4D7-24BE-4DEA-8CBA-D7D78F6ABF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D071D4D7-24BE-4DEA-8CBA-D7D78F6ABF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C76F7EA3-D3E1-48BA-8889-1FB202992051}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P28_继承", "P28_继承.pyproj", "{576DDABD-8612-4AB7-B25C-A2AF211EC899}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P29_错误处理", "..\test\P29_错误处理.pyproj", "{77EE0016-46CA-4ABD-8A4E-27F8AE31D277}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P29_第一个爬虫", "..\P29_第一个爬虫\P29_第一个爬虫.pyproj", "{82FEE2D1-A731-4AD7-9E33-6B93711D3AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576DDABD-8612-4AB7-B25C-A2AF211EC899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576DDABD-8612-4AB7-B25C-A2AF211EC899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EE0016-46CA-4ABD-8A4E-27F8AE31D277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EE0016-46CA-4ABD-8A4E-27F8AE31D277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FEE2D1-A731-4AD7-9E33-6B93711D3AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FEE2D1-A731-4AD7-9E33-6B93711D3AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9410D75A-5F95-445B-8DCF-43383B90E1BF}
+	EndGlobalSection
+EndGlobal
